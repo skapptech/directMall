@@ -2,4 +2,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.sk.directmall">
 
+    <application>
+        <activity android:name=".DirectMallLendingActivity"></activity>
+    </application>
+
 </manifest>
