@@ -1,0 +1,3 @@
+include ':directMall'
+include ':app'
+rootProject.name = "Direct Mall"
