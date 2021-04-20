@@ -1,0 +1,4 @@
+
+†
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ô­ìû
+j	java:S116"URename this field "ResultItem" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ààù˜

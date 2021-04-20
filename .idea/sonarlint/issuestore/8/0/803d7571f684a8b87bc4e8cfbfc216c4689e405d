@@ -1,0 +1,15 @@
+
+f
+java:S1301M"KReplace this "switch" statement by "if" statements to increase readability.(Ñƒ¨áúÿÿÿÿ
+a
+java:S2184)"FCast one of the operands of this multiplication operation to a "long".(Üœ½†øÿÿÿÿ
+\
+java:S2184*"FCast one of the operands of this multiplication operation to a "long".(£¤‹
+f	java:S114e"QRename this interface name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(³†¼
+C
+java:S1604I"(Make this anonymous inner class a lambda(¨Ç™Òúÿÿÿÿ
+<	java:S131M""Add a default case to this switch.(Ñƒ¨áúÿÿÿÿ
+‚
+java:S3252N"gUse static access with "com.google.android.gms.common.api.CommonStatusCodes" for "RESOLUTION_REQUIRED".(Âş†²ûÿÿÿÿ
+A
+java:S1905^"+Remove this unnecessary cast to "Activity".(¼áË“

@@ -1,0 +1,7 @@
+
+Š
+java:S1319"oThe type of the "list" object should be an interface such as "List" rather than the implementation "ArrayList".(ú…¤©øÿÿÿÿ
+‹
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ÍÑÅÿÿÿÿÿ
+A
+java:S1168"+Return an empty collection instead of null.(¥¹ï

@@ -1,0 +1,4 @@
+
+W
+java:S1126Q"AReplace this if-then-else statement by a single return statement.(ÜÊÈĞ
+o	java:S115f"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(çš„ª

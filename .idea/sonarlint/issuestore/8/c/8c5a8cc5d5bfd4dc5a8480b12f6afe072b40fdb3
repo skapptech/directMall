@@ -1,0 +1,8 @@
+
+`	java:S112E"FDefine and throw a dedicated exception instead of using a generic one.(èšá¹úÿÿÿÿ
+>
+java:S16042"(Make this anonymous inner class a lambda(¥‘ ð
+G
+java:S1172'",Remove this unused method parameter "attrs".(¬ï©„þÿÿÿÿ
+F
+java:S1874,"0Remove this use of "getColor"; it is deprecated.(ý¦¹ô

@@ -1,0 +1,28 @@
+
+^
+java:S1874w"CRemove this use of "getDefaultSharedPreferences"; it is deprecated.(Ñ¨ıÔıÿÿÿÿ
+J
+java:S1602“",Remove useless curly braces around statement(Æ©œÇ8êÆ‹÷/
+L
+java:S1874)"7Remove this use of "FLAG_FULLSCREEN"; it is deprecated.(±ùËD
+]	java:S125}"<This block of commented-out lines of code should be removed.(¹¹À¡øÿÿÿÿ8¹çŠ÷/
+D	java:S108‡")Either remove or fill this block of code.(³„‰¡ùÿÿÿÿ
+R
+java:S1874*"=Remove this use of "setSystemUiVisibility"; it is deprecated.(şÚÒ
+Q
+java:S1066O"/Merge this if statement with the enclosing one.(¤‹“¢ıÿÿÿÿ8¿ğ»ö/
+V	java:S110"<This class has 9 parents which is greater than 5 authorized.(äÊãøÿÿÿÿ
+X	java:S125,"<This block of commented-out lines of code should be removed.(ï›î•8ğ³–ö/
+]	java:S125"<This block of commented-out lines of code should be removed.(®¬Î€ıÿÿÿÿ8‘üŠ÷/
+T
+java:S1874w"9Remove this use of "PreferenceManager"; it is deprecated.(Ñ¨ıÔıÿÿÿÿ
+^	java:S125”"<This block of commented-out lines of code should be removed.(¹¹À¡øÿÿÿÿ8êÆ‹÷/
+[
+java:S1874*"FRemove this use of "SYSTEM_UI_FLAG_HIDE_NAVIGATION"; it is deprecated.(şÚÒ
+L
+java:S1874)"7Remove this use of "FLAG_FULLSCREEN"; it is deprecated.(±ùËD
+V	java:S125a"<This block of commented-out lines of code should be removed.(îùŒ‘üÿÿÿÿ
+}
+java:S3923|"[Remove this conditional structure or edit its code blocks so that they're not all the same.(¢‹‡©ûÿÿÿÿ8‘üŠ÷/
+\
+java:S1874*"GRemove this use of "SYSTEM_UI_FLAG_IMMERSIVE_STICKY"; it is deprecated.(şÚÒ

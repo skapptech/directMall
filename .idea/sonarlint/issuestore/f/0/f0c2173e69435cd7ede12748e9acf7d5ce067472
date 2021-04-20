@@ -1,0 +1,16 @@
+
+Q	java:S125s"<This block of commented-out lines of code should be removed.(¡š‘æ
+Q	java:S125'"<This block of commented-out lines of code should be removed.(¡Ê¤Í
+V	java:S125p"<This block of commented-out lines of code should be removed.(Õ¿èãÿÿÿÿÿ
+E
+java:S1066<"/Merge this if statement with the enclosing one.(Œ›ß
+C
+java:S1068$"-Remove this unused "mActivity" private field.(£Ã†”
+D
+java:S1874F".Remove this use of "create"; it is deprecated.(ëŸ‡‹
+@
+java:S3010]"%Remove this assignment of "retrofit".(µûëŠüÿÿÿÿ
+m
+java:S3776,"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(½ø“šşÿÿÿÿ
+P
+java:S1141="5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ

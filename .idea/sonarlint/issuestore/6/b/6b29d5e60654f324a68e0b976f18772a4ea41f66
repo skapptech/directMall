@@ -1,0 +1,21 @@
+
+L
+java:S1874V"1Remove this use of "AsyncTask"; it is deprecated.(ŠªêËþÿÿÿÿ
+N
+java:S1874]"9Remove this use of "executeOnExecutor"; it is deprecated.(­ç†3
+F
+java:S1874]"1Remove this use of "AsyncTask"; it is deprecated.(­ç†3
+Q
+java:S1874]"<Remove this use of "THREAD_POOL_EXECUTOR"; it is deprecated.(­ç†3
+L
+java:S1874a"1Remove this use of "AsyncTask"; it is deprecated.(ŠªêËþÿÿÿÿ
+e
+java:S1874s"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(Û¶…óøÿÿÿÿ
+K
+java:S1874t"5Remove this use of "onPostExecute"; it is deprecated.(¹ï•é
+N
+java:S1874x"9Remove this use of "executeOnExecutor"; it is deprecated.(­ç†3
+F
+java:S1874x"1Remove this use of "AsyncTask"; it is deprecated.(­ç†3
+Q
+java:S1874x"<Remove this use of "THREAD_POOL_EXECUTOR"; it is deprecated.(­ç†3

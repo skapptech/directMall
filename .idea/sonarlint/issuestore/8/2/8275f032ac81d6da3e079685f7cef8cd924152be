@@ -1,0 +1,68 @@
+
+
+java:S1186ÿ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Éô×âÿÿÿÿÿ
+˜
+java:S1186«"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(úÑ¯¤
+C
+java:S1068'"-Remove this unused "mActivity" private field.(ïĞÔ’
+˜
+java:S1186—"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(úÑ¯¤
+
+java:S1186Å"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Éô×âÿÿÿÿÿ
+
+java:S1186±"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Éô×âÿÿÿÿÿ
+k	java:S117;"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’é”íşÿÿÿÿ
+
+java:S1186à"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Éô×âÿÿÿÿÿ
+
+java:S1186”"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Éô×âÿÿÿÿÿ
+
+java:S1186™"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Éô×âÿÿÿÿÿ
+—
+java:S1186w"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(úÑ¯¤
+i	java:S100‹"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•œùıúÿÿÿÿ
+J
+java:S3740q"/Provide the parametrized type for this generic.(ŠÒ¬°ùÿÿÿÿ
+F
+java:S3740‘"/Provide the parametrized type for this generic.(ƒ–„ò
+
+java:S1186å"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Éô×âÿÿÿÿÿ
+f	java:S117V"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­õÏ
+—
+java:S1186]"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(úÑ¯¤
+i	java:S100Å"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îÆˆøüÿÿÿÿ
+K
+java:S3740¥"/Provide the parametrized type for this generic.(ğ¸÷šüÿÿÿÿ
+i	java:S100¥"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ¸÷šüÿÿÿÿ
+k	java:S117;"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’é”íşÿÿÿÿ
+
+java:S1186®"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Éô×âÿÿÿÿÿ
+k	java:S117;"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’é”íşÿÿÿÿ
+˜
+java:S1186‘"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(úÑ¯¤
+˜
+java:S1186ı"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(úÑ¯¤
+—
+java:S1186B"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(úÑ¯¤
+K
+java:S3740÷"/Provide the parametrized type for this generic.(÷†ªÈúÿÿÿÿ
+w
+java:S3008("\Rename this field "CommonClassForAPI" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ¡şÿÿÿÿÿ
+i	java:S100÷"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷†ªÈúÿÿÿÿ
+
+java:S1186ú"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Éô×âÿÿÿÿÿ
+J
+java:S3740;"/Provide the parametrized type for this generic.(’é”íşÿÿÿÿ
+R	java:S107V"=Method has 14 parameters, which is greater than 7 authorized.(­õÏ
+g	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷ò´®
+W	java:S125Â"<This block of commented-out lines of code should be removed.(¡º˜šûÿÿÿÿ
+f	java:S117V"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­õÏ
+K
+java:S3740‹"/Provide the parametrized type for this generic.(•œùıúÿÿÿÿ
+E
+java:S3740V"/Provide the parametrized type for this generic.(­õÏ
+W	java:S107;"=Method has 13 parameters, which is greater than 7 authorized.(’é”íşÿÿÿÿ
+
+java:S1186ã"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Éô×âÿÿÿÿÿ
+
+java:S1186Ë"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Éô×âÿÿÿÿÿ

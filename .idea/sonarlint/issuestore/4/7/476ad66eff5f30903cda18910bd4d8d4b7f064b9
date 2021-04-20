@@ -1,0 +1,19 @@
+
+W	java:S107@"BConstructor has 10 parameters, which is greater than 7 authorized.(œúÉ¨
+m	java:S116"SRename this field "SellerId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ÷ıõüÿÿÿÿ
+t	java:S116"ZRename this field "DecryptsellerId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–£‘ƒúÿÿÿÿ
+o	java:S116"ZRename this field "ParentProductId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š§¨à
+g	java:S116"MRename this field "Id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬µä›şÿÿÿÿ
+h	java:S116"SRename this field "Latitude" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØÍÇ
+i	java:S116"TRename this field "Longitude" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼İ«Ë
+e	java:S116"PRename this field "TagId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿„ìØ
+l	java:S116"RRename this field "Keyword" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øò»úÿÿÿÿ
+i	java:S116 "ORename this field "Skip" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒÚ¡Éøÿÿÿÿ
+i	java:S116#"ORename this field "Take" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£èì›úÿÿÿÿ
+p	java:S116&"[Rename this field "ParentCategoryId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºÙÇ±
+l	java:S116)"WRename this field "CategoryName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûû¥ò
+o	java:S116,"URename this field "CateogryId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯Èùÿÿÿÿ
+u	java:S116/"[Rename this field "IsParentCategory" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( üÜÓüÿÿÿÿ
+i	java:S1162"TRename this field "ProductId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éà€¬
+g	java:S1165"RRename this field "BrandId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…Ğâ¤
+p	java:S1169"VRename this field "ProductName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ–ì²ûÿÿÿÿ

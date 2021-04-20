@@ -1,0 +1,54 @@
+
+Š
+java:S1319("oThe type of the "list" object should be an interface such as "List" rather than the implementation "ArrayList".(™Ï®±øÿÿÿÿ
+g	java:S116"RRename this field "DB_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶èÊô
+7
+java:S1170"!Make this final field static too.(¶èÊô
+L
+java:S1874"1Remove this use of "AsyncTask"; it is deprecated.(ŠªêËþÿÿÿÿ
+N
+java:S1874%"9Remove this use of "executeOnExecutor"; it is deprecated.(­ç†3
+F
+java:S1874%"1Remove this use of "AsyncTask"; it is deprecated.(­ç†3
+Q
+java:S1874%"<Remove this use of "THREAD_POOL_EXECUTOR"; it is deprecated.(­ç†3
+L
+java:S1874)"1Remove this use of "AsyncTask"; it is deprecated.(ŠªêËþÿÿÿÿ
+N
+java:S18740"9Remove this use of "executeOnExecutor"; it is deprecated.(­ç†3
+F
+java:S18740"1Remove this use of "AsyncTask"; it is deprecated.(­ç†3
+Q
+java:S18740"<Remove this use of "THREAD_POOL_EXECUTOR"; it is deprecated.(­ç†3
+L
+java:S18744"1Remove this use of "AsyncTask"; it is deprecated.(ŠªêËþÿÿÿÿ
+N
+java:S1874:"9Remove this use of "executeOnExecutor"; it is deprecated.(­ç†3
+F
+java:S1874:"1Remove this use of "AsyncTask"; it is deprecated.(­ç†3
+Q
+java:S1874:"<Remove this use of "THREAD_POOL_EXECUTOR"; it is deprecated.(­ç†3
+L
+java:S1874@"1Remove this use of "AsyncTask"; it is deprecated.(ŠªêËþÿÿÿÿ
+N
+java:S1874F"9Remove this use of "executeOnExecutor"; it is deprecated.(­ç†3
+F
+java:S1874F"1Remove this use of "AsyncTask"; it is deprecated.(­ç†3
+Q
+java:S1874F"<Remove this use of "THREAD_POOL_EXECUTOR"; it is deprecated.(­ç†3
+L
+java:S1874K"1Remove this use of "AsyncTask"; it is deprecated.(ŠªêËþÿÿÿÿ
+N
+java:S1874Q"9Remove this use of "executeOnExecutor"; it is deprecated.(­ç†3
+F
+java:S1874Q"1Remove this use of "AsyncTask"; it is deprecated.(­ç†3
+Q
+java:S1874Q"<Remove this use of "THREAD_POOL_EXECUTOR"; it is deprecated.(­ç†3
+L
+java:S1874U"1Remove this use of "AsyncTask"; it is deprecated.(ŠªêËþÿÿÿÿ
+N
+java:S1874["9Remove this use of "executeOnExecutor"; it is deprecated.(­ç†3
+F
+java:S1874["1Remove this use of "AsyncTask"; it is deprecated.(­ç†3
+Q
+java:S1874["<Remove this use of "THREAD_POOL_EXECUTOR"; it is deprecated.(­ç†3

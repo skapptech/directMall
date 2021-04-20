@@ -1,0 +1,10 @@
+
+‹
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(şÂÃùÿÿÿÿ
+‹
+java:S1319!"uThe type of the "resultItem" object should be an interface such as "List" rather than the implementation "ArrayList".(§¹í²
+i	java:S116
+"TRename this field "IsSuccess" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©ïÁ§
+o	java:S116"URename this field "ResultItem" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤ÿ›“ûÿÿÿÿ
+n	java:S116"YRename this field "SuccessMessage" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é¯û
+l	java:S116"WRename this field "ErrorMessage" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬›µ
